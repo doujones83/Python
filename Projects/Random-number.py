@@ -28,3 +28,5 @@ while gn < gl:
     elif guess < num:
         print('Way too low')
         
+        
+    #Random Numbers
